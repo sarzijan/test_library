@@ -1,0 +1,3 @@
+[submodule "settings"]
+	path = settings
+	url = https://github.com/sarzijan/test_library_settings.git
